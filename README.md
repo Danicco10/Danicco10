@@ -3,7 +3,7 @@
 
 [![BLog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-dos-santos-845a73265/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dam_santss/?next=%2F)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](damsantos978@gmail.com) <br/> <br/> 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damsantos978@gmail.com) <br/> <br/> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicco10&show_icons=true&theme=radical)
 
 ### Tecnologias de uso frequentes:
