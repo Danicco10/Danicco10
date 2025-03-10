@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+i'm+Danilo+Santos!!;Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+color=#008000,+i'm+Danilo+Santos!!;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 [![BLog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-dos-santos-845a73265/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dam_santss/?next=%2F)
